@@ -6,13 +6,13 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+AI Trainer with a strong academic background in Artificial Intelligence from Utrecht University. I specialise in modelling, linguistics and ethics of AI. 
 
 ## Occupation
 `2026 - Now`
 **AI Trainer**, *Code Café*, Utrecht
-- Preparing learning materials and trainings
-- Ondersteunen mensen
+- Creating training materials including theory, exercises and lesson plans
+- Preparing, planning and teaching training sessions in live, virtual and hybrid settings
 
 ## Education
 `2022 - Now`
@@ -23,22 +23,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Skills
 
-| Technical          | Soft                 |
-| ------------------ | -------------------- |
-| Git                | Cool                 |
-| Github             |                      |
+| Technical           | Soft                  |
+| ------------------- | --------------------- |
+| Python              | AI Ethics & Governance|
+| C#                  | Lesson planning       | 
+| Prompt Engineering  | Communicative         |
+| Natural Language    |
+| Processing          |
 
 
 ## Certification
 
-`2021`
-Working from home 101
+`2022`
+Noaberdeal Klantgerichtheid, Samenwerken en Resultaatgericht werken
 
 ## Languages
 ### Native
 - Dutch
+### Advanced
+- English
+### Conversational
+- German
 
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
