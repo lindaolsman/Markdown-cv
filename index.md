@@ -28,8 +28,7 @@ AI Trainer with a strong academic background in Artificial Intelligence from Utr
 | Python              | AI Ethics & Governance|
 | C#                  | Lesson planning       | 
 | Prompt Engineering  | Communicative         |
-| Natural Language    |
-| Processing          |
+| Natural Language Processing          |
 
 
 ## Certification
