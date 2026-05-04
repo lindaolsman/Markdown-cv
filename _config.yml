@@ -1,4 +1,4 @@
-title: Change the title in _config.yml
+title: Linda Olsman
 url: ""
 baseurl: "/"
 
@@ -6,7 +6,7 @@ markdown: kramdown
 
 footer: yes
 footer_url: ""
-footer_text: "Last updated: June 2021"
+footer_text: "Last updated: May 2026"
 
 sass:
     style: compressed
